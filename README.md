@@ -5,4 +5,4 @@
 
 | ![Arturo](https://raw.githubusercontent.com/VictorLavalle/IHC/main/Team/Arturo.png) | ![Victor](https://raw.githubusercontent.com/VictorLavalle/IHC/main/Team/Me.png)| ![Eberth](https://raw.githubusercontent.com/VictorLavalle/IHC/main/Team/Eberth.png)|
 | ----- | ---- | ----- |
-| <a href="https://github.com/ArtruneTranspara"> Jorge Arturo Aguilar Solís </a>| <a href="https://github.com/VictorLavalle"> Víctor Manuel Lavalle Cantón</a> | <a href="https://github.com/EberthMezeta"> Eberth Francisco Mezeta Xool </a> |
+| <a href="https://github.com/A17016356"> Jorge Arturo Aguilar Solís </a>| <a href="https://github.com/VictorLavalle"> Víctor Manuel Lavalle Cantón</a> | <a href="https://github.com/EberthMezeta"> Eberth Francisco Mezeta Xool </a> |
